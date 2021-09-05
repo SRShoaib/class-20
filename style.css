@@ -1,0 +1,51 @@
+
+.container-1{
+
+    background-color: #E3F2FD;
+}
+
+.navbar{
+
+    background-color: #E3F2FD;
+}
+
+
+
+.breadcrumb{
+
+    background-color: #ebf1f7;
+
+}
+
+.alert{
+    background-color: #D4EDDA;
+}
+
+.nav-item a{
+    color: rgb(189, 184, 184);
+}
+
+
+.nav-item a:hover{
+    color:black;
+}
+
+.nav-1{
+    color: black;
+}
+
+  
+.bottom{
+
+    background-color: #17A2B8;
+    padding: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+.banner-image{
+
+    height: 400px;
+
+}
